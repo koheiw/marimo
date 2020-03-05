@@ -70,7 +70,7 @@ preposition:
     # from, to, again, further, than]
     - [שוב, הלאה]
     - ["?שוב", "?הלאה"]
-adjectives: 
+adjective: 
     # [own, same]
     - [משלו, אותו]
     - ["?משלו", "?אותו"]

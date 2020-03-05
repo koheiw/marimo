@@ -50,7 +50,7 @@ preposition:
     - [中, 前, 後, 上, 下, 内, 外]
     # from, to, again, further, than]
     - [から, まで, にかけて, また, ふたたび, 再び, さらに, 更に, いっそう, 一層, より]
-adjectives: 
+adjective: 
     # [own, same] 
     - [自ら, 自己, 同じ, 同一]
 time:

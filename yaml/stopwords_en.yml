@@ -29,7 +29,7 @@ adverb:
     - [as, until, once, here, there, all, any, both, each, few, many, more, most, other, some, such, "no", not, only, then, too, very, little, less]
 preposition: 
     - [of, at, by, for, with, about, against, between, into, through, during, before, after, above, below, to, from, up, down, in, out, "on", "off", over, under, again, further, than]
-adjectives: 
+adjective: 
     - [own, same] 
 time: 
     # added
