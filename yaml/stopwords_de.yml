@@ -1,3 +1,4 @@
+# Created by Oul Han for the marimo stopwords: https://github.com/koheiw/marimo
 pronoun: 
     basic: 
         - [ich, mein, meine, mir, wir, unser, unsere, uns, du, deine, dir, dich, ihr, ihre, ihnen, er, ihn, seine, ihm, sie, es, dies, solche, den, des, dem,]

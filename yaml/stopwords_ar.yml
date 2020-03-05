@@ -1,3 +1,4 @@
+# Created by Dai Yamao for the marimo stopwords: https://github.com/koheiw/marimo
 pronoun: 
     basic:
         # [i, me, myself, we, ours, ourselves, you, yours, yourself, yourselves, he, him, himself, she, hers, herself]
