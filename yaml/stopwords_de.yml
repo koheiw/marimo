@@ -30,6 +30,6 @@ time:
     - [januar, februar, märz, april, mai, juni, juli, august, september, oktober, november, dezember]
     - [sonntag, montag, dienstag, mittwoch, donnerstag, freitag, samstag]
 number:
-	- [eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn]
+    - [eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn]
 
 
