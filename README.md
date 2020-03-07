@@ -10,4 +10,4 @@ Languages | Author | Notes
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
  [Japanese](yaml/stopwords_ja.yml) | Kohei Watanabe
  
-We are planing to add more languages to enable cross-lingual quantitative text analysis. If you are interested, please contact us.
+We will continue to improve the lists and add more languages to enable cross-lingual quantitative text analysis. If you are interested in contributing to this project, please contact us.
