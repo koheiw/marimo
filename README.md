@@ -2,9 +2,9 @@
 
 Marimo extends the Snowball stopword list in both European and Asian languages ensuring their comparability. English words are extended and translated into functionally equivalent words in respective languages manually. The lists are structured hierarchically to allow users to opt-out extended fields such as `number`, `time` and `reporting`.
 
-Languages | Author | Notes
+Language | Author | Notes
 --- | --- | ---
- [English](yaml/stopwords_en.yml) | Kohei Watanabe | adopted from Snowball
+ [English](yaml/stopwords_en.yml) | Kohei Watanabe | Adopted from Snowball as the master list
  [German](yaml/stopwords_de.yml) | Oul Han |
  [Arabic](yaml/stopwords_ar.yml) | Dai Yamao |
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
