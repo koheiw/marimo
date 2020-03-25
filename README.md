@@ -9,5 +9,6 @@ Language | Author | Notes
  [Arabic](yaml/stopwords_ar.yml) | Dai Yamao |
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
  [Japanese](yaml/stopwords_ja.yml) | Kohei Watanabe
- 
+ Chinese [Traditional](yaml/stopwords_zh_traditional.yml) / [Simplified](yaml/stopwords_zh_simplified.yml) | Chung-hong Chan
+
 We will continue to improve the lists and add more languages to enable cross-lingual quantitative text analysis. If you are interested in contributing to this project, please contact us.
