@@ -43,3 +43,5 @@ number:
     # added
     cardinal:
         - [one, two, three, four, five, six, seven, eight, nine, ten]
+    #ordinal:    
+    #    - [first, second, third, fourth, fifth, seventh, eighth, nineth, tenth]
