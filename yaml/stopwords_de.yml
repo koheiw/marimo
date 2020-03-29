@@ -26,10 +26,14 @@ preposition:
 adjective: 
     - [gleich] 
 time: 
-    - [minute, stunde, monat, jahr, jahrhundert, vormittag, nachmittag]
-    - [januar, februar, märz, april, mai, juni, juli, august, september, oktober, november, dezember]
-    - [sonntag, montag, dienstag, mittwoch, donnerstag, freitag, samstag]
+    unit:
+        - [minute, stunde, monat, jahr, jahrhundert, vormittag, nachmittag]
+    month:
+        - [januar, februar, märz, april, mai, juni, juli, august, september, oktober, november, dezember]
+    day:        
+        - [sonntag, montag, dienstag, mittwoch, donnerstag, freitag, samstag]
 number:
-    - [eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn]
+    cardinal:
+        - [eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn]
 
 
