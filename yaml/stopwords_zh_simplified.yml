@@ -1,4 +1,6 @@
 # Created by Chung-hong Chan for the marimo stopwords: https://github.com/koheiw/marimo
+# With contributions from: @yuanzhouIR
+
 pronoun:
     basic:
         # [i, me, myself, we, ours, ourselves, you, yours, yourself, yourselves, he, him, himself, she, hers, herself]
@@ -23,7 +25,7 @@ verb:
         - [说, 表示, 讲, 提出, 透露, 陈述, 讲述, 报道, 报导, 报告, 汇报]
 conjunction:
     # [and, but, if, or, while, nor]
-    - [和, 与, 及, 以及, 兼, 并, 但, 但是, 然而, 而, 而是, 而且, 不过, 如果, 如, 若果, 若, 即使, 假如, 或者, 或, 或是, 远是, 换言之, 换句话说, 当时, 也没有, 也不]
+    - [和, 与, 及, 以及, 兼, 并, 但, 但是, 然而, 而, 而是, 而且, 不过, 如果, 如, 若果, 若, 即使, 假如, 或者, 或, 或是, 还是, 抑或, 换言之, 换句话说, 当时, 也没有, 也不]
     # [because, so]
     - [因为, 因, 由于, 所以, 那样, 那么, 正是, 同样地, 大概]
 adverb:
@@ -36,7 +38,7 @@ adverb:
     # [few, many, more, most, some]
     - [少量, 少数, 少, 多, 多数, 大量, 更多, 更大量, 更, 最多, 大多数, 大部份, 最, 极, 极其, 几乎, 一些, 若干, 部份]
     # [other, such, "no", not, only, then]
-    - [其他, 其余, 个别, 剩余, 如此, 如, 因此, 固此, 不, 不是, 非, 否, 没, 只是, 只, 那么, 然后]
+    - [其他, 其余, 个别, 剩余, 如此, 如, 因此, 固此, 不, 不是, 非, 否, 没, 只是, 只, 那么, 那末, 然后]
     # [too, very]
     - [也, 太, 过于, 非常, 很, 颇]
 preposition:
