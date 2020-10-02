@@ -13,9 +13,4 @@ Language | Authors | Notes
 
 We will continue to improve the lists and add more languages to enable cross-lingual quantitative text analysis. If you are interested in contributing to this project, please contact us.
 
-Marimo stopwords lists are available via the [stopwords](https://cran.r-project.org/web/packages/stopwords/index.html) package in R. For example,
-
-```
-stopwords::stopwords("ja", source = "marimo")
-stopwords::stopwords("ar", source = "marimo")
-```
+Marimo stopwords lists are available via the [stopwords](https://cran.r-project.org/web/packages/stopwords/index.html) package in R.
