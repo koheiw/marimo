@@ -31,7 +31,7 @@ stopwords:
         - [di, oleh, dengan, menurut, untuk, bagi, selama, dengan, bersama, pada, tentang, megenai, soal, terhadap, di sekitar, melawan,  antara, di antara, menjadi, ke dalam, melalui, melewat*, sebelum, daripada, atas, bawah, naik, menaikkan, menurunkan, menjatuhkan, meletakkan, hanyut, lebih,  kembali, sekali lagi, pula, selanjutnya]
     adjectives: 
         - [sendiri, kepunyaan sendiri, sama, serupa, sama saja] 
-    time: v
+    time:
         # added
         - [menit, detik, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm, hari]
         - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
