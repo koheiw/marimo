@@ -3,39 +3,38 @@
 stopwords:
     pronoun: 
         basic: 
-            - [saya, aku, gue, diri, diri sendiri, sendiri, kita, kami, milik kita, milik kami, punya kami, anda, kamu, engkau, saudara, milikmu, milik anda, milik kamu, dirimu, dia, ia, beliau, kepunyaannya, punyanya, itu, ini, mereka, milik mereka, punya mereka, yang ini, bahwa, yang, sehingga, agar, kalau, supaya, maka, bahwasanya, agar supaya, di waktu mana]
+            - [saya, aku, gue, diri, sendiri, kita, kami, anda, kamu, engkau, saudara, milikmu, dirimu, dia, ia, beliau, kepunyaannya, punyanya, itu, ini, mereka, bahwa, yang, sehingga, agar, kalau, supaya, maka, bahwasanya, agar supaya, di waktu mana]
         possesive: 
             - [milikku, milik saya, milik*]
         interogative: 
             # added "whose"
-            - [apa, yang, mana, siapa, siapapun, kapan, ketika, jika, waktu, kalau, sewaktu, bila, apabila, dimana, ke, dari, padahal, mengapa, kenapa, kok, bagaimana, berapa]
+            - [apa, mana, siapa, siapapun, kapan, ketika, jika, waktu, sewaktu, bila, apabila, dimana, ke, dari, padahal, mengapa, kenapa, kok, bagaimana, berapa]
         contraction: 
-            - [saya, kamu, dia, ia, ini, itulah, kita, kami, mereka, saya sudah, saya punya, kami punya, anda punya, kita punya, mereka punya, saya akan, saya ingin, kamu akan, anda akan, anda ingin, dia akan, dia ingin, ia akan, ia ingin, kita akan, kita ingin, kami akan, kami ingin, mereka akan, mereka ingin]
+            - [inilah, itulah, sudah, punya, akan, ingin]
     verb: 
         basic: 
-            - [adalah, ialah, dulu, dulu, menjadi, ada, berada, telah, memiliki, mempunyai, mendapat, punya, melakukan, berbuat, membuat, buat, dilakukan, perbuatan, merupakan]
+            - [adalah, ialah, dulu, menjadi, ada, berada, telah, mendapat, melakukan, berbuat, membuat, buat, dilakukan, perbuatan, merupakan]
         modal: 
-            - [akan, sebaiknya, harus, seharusnya, sebaiknya, semestinya, patut, bisa, dapat, mungkin, mau, siap, barangkali, seharusnya]
         contraction: 
-            - [tidak, bukan, tidak punya, jangan, tak, tidak akan, tidak bisa, tdk dapat, tdk bisa, tidak harus, ayo, itu adalah, siapa yang, apa yang, disini adalah, adah, adalah, kapan, dimana, kenapa, bagaimana, hal]
+            - [tidak, bukan, jangan, tak, tidak akan, tidak bisa, tdk dapat, tdk bisa, tidak harus, ayo, siapa yang, disini adalah, adah, adalah, kapan, dimana, kenapa, bagaimana, hal]
         reporting: 
             # added
             - [mengatakan, kata, berkata, mengucapkan, berucap, ujar, berpendapat, bilang, membilangkan, mengomong, memprikan, mengira, tersebut, yang disebut di atas, menceritakan, menyuruh, bercerita, mengetahui, mengenali, mengenal, menunjukkan, menandakan, jelaskan, mengadukan, deberitahu, melapor*, mengabarkan, memberitahu*, mewartakan, lapor, merencana, unjuk bertahu, laporan, warta, renana, repot, dilaporkan]
     article: 
         - [sebuah, seorang, sebatang, itu, sang]
-    conjunction: 
-        - [dan, serta, dengan, tambah, tapi, tetapi, melainkan, akan tetapi, meskipun begitu, rupanya, jika, apakah, kalau, bila, apabila, jikalau, atau, karena, sebab, lantaran, begitu, amat, jadi, demikian, juga, sekali, sementara, sedangkan, selagi, sambil, meski*, sembari, walaupun, seraya, saat, maupun, namun]
+    conjunction:
+        - [dan, serta, dengan, tambah, tetapi, melainkan, rupanya, jika, apakah, bila, atau, karena, sebab, begitu, amat, jadi, demikian, sementara, sedangkan, sambil, meski*, sembari, walaupun, seraya, saat, maupun, namun]
     adverb: 
         # added "many"
-        - [sebagai, karena, ketika, betapa, seperti, ajak, sampai, sehingga, hingga, sekali, pernah, sini, di sini, ke sini, begini, ini, sana, di sana, ke sana, situ, di situ, ke situ, sekian, semua, segenap, segela, sekalian, apa saja, apa pun, sesuatu, siapa saja, barang, apa-apa, kedua*, berdua, setiap, tiap*, masing*, beberapa, sedikit, tidak banyak, tdk banyak, banyak, lebih, lagi, tambah, menang, paling, sangat, amat, terlebih, lain, satu lagi, salah, salah satu, suatu, stengah, hebat, seperti itu, sedemikian, begitu, serupa itu, sekali, tidaklah, tidak, hanya, saja, baru, cuma, semata*, melulu, kemudian, sesudah itu, maka, lalu, setelah itu, waktu itu, pun, terus, teralu, juga, pun, sangat, terlampau, pula, kelewat, benar*, jua, sangat, amat, begitu, banget, benar, seluruh]
+        - [sebagai, seperti, ajak, sampai, sehingga, hingga, sekali, pernah, begini, sana, sekian, semua, segenap, segela, sekalian, sesuatu, kedua*, tiap*, masing*, beberapa, sedikit, tidak banyak, tdk banyak, banyak, lebih, lagi, tambah, menang, paling, sangat, amat, terlebih, lain, satu lagi, salah, salah satu, stengah, hebat, sedemikian, hanya, saja, baru, cuma, semata*, melulu, kemudian,  terus, teralu, pula, kelewat, benar*, banget, benar, seluruh]
     preposition: 
-        - [dari, di, oleh, dengan, menurut, untuk, bagi, selama, dengan, bersama, pada, tentang, megenai, soal, terhadap, di sekitar, melawan, terhadap menentang, antara, di antara, ke, menjadi, ke dalam, melalui, lewat, melewat*, sampai, selama, sementara, sebelum, daripada, di hadapan, di depan, di muka, stelah, sesudah, sehabis, atas,  di atas, bawah, di bawah, ke, dari, naik, ke atas, menaikkan, turun, ke bawah, di bawah, turun, menurunkan, menjatuhkan, meletakkan, di, dalam, pada, di dalam, dengan, secara, untuk, lagi, di luar, ke luar, luar, pingsan, hanyut, lebih, di atas, ke atas, lagi, sisa, tersisa, dibawah, di bawah, bawah, lagi, kembali, sekali lagi, pula, lebih lanjut, lebih jauh, selanjutnya, daripada, kecuali, kepada]
+        - [di, oleh, dengan, menurut, untuk, bagi, selama, dengan, bersama, pada, tentang, megenai, soal, terhadap, di sekitar, melawan,  antara, di antara, menjadi, ke dalam, melalui, melewat*, sebelum, daripada, atas, bawah, naik, menaikkan, menurunkan, menjatuhkan, meletakkan, hanyut, lebih,  kembali, sekali lagi, pula, selanjutnya]
     adjectives: 
         - [sendiri, kepunyaan sendiri, sama, serupa, sama saja] 
-    time: 
+    time: v
         # added
         - [menit, detik, jam, pukul, saat, waktu, bulan, tahun,  abad, kurun, am, pm, hari]
-        - [januari, februari, maret, april, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, mei, jun, jul, aug, sep, sept, okt, nov, des]
+        - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     number:
         - [satu, dua, tiga, empat, lima, enam, tujuj, delapan, sembilan, sepuluh]
 
