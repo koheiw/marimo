@@ -33,7 +33,7 @@ stopwords:
         - [sendiri, kepunyaan sendiri, sama, serupa, sama saja] 
     time: v
         # added
-        - [menit, detik, jam, pukul, saat, waktu, bulan, tahun,  abad, kurun, am, pm, hari]
+        - [menit, detik, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm, hari]
         - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     number:
         - [satu, dua, tiga, empat, lima, enam, tujuj, delapan, sembilan, sepuluh]
