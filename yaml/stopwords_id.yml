@@ -48,8 +48,10 @@ time:
     - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     # [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
 number:
-    # [one, two, three, four, five, six, seven, eight, nine, ten]
-    - [satu, dua, tiga, empat, lima, enam, tujuj, delapan, sembilan, sepuluh]
-    # [first, second, third, fourth, fifth, seventh, eighth, nineth, tenth]
-    - []
+    cardinal:
+        # [one, two, three, four, five, six, seven, eight, nine, ten]
+        - [satu, dua, tiga, empat, lima, enam, tujuj, delapan, sembilan, sepuluh]
+    ordinal: 
+        # [first, second, third, fourth, fifth, seventh, eighth, nineth, tenth]
+        - []
 
