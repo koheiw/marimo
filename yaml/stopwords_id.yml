@@ -14,7 +14,7 @@ pronoun:
         - [apa, mana, siapa*, kapan, ketika, mengapa, kenapa, bagaimana]
     contraction: 
         # [i'm, you're, he's, she's, it's, we're, they're, i've, you've, we've, they've, i'd, you'd, he'd, she'd, we'd, they'd, i'll, you'll, he'll, she'll, we'll, they'll]
-        - [sudah]
+    
 verb: 
     basic: 
         # [am, is, are, was, were, be, been, being, have, has, had, having, do, does, did, doing]
