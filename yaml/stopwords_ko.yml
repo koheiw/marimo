@@ -67,4 +67,3 @@ number:
     cardinal:
         # [one, two, three, four, five, six, seven, eight, nine, ten]
         - [일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십, 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열]
-        
