@@ -55,12 +55,16 @@ adjective:
     - [자신의, 동일한, 본인의]
 time:
     unit:
+        # [minute, hour, month, year, century, am, pm]
         - [월, 달, 일, 년, 해, 권, 벌, 송이, 쪽, 장, 점, 원, 가지, 천, 만, 백만, 천만, 억, 조, 명, 분, 건, 초, 분, 살, 세]
     month:
+        # [january, february, march, april, may, june, july, august, september, october, november, december, jan, feb, mar, apr, may, jun, jul, aug, sep, sept, oct, nov, dec]
         - [일월, 이월, 삼월, 사월, 오월, 유월, 칠월, 팔월, 구월, 십월, 십일월, 십이월]
-    day:    
+    day:
+        # [one, two, three, four, five, six, seven, eight, nine, ten]
         - [월요일, 화요일, 수요일, 목요일, 금요일, 토요일, 일요일]
 number:
     cardinal:
+        # [one, two, three, four, five, six, seven, eight, nine, ten]
         - [일, 이, 삼, 사, 오, 육, 칠, 팔, 구, 십, 하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열]
-
+        
