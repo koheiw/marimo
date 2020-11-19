@@ -51,7 +51,7 @@ adjectives:
     - [sendiri, sama] 
 time:
     # [minute, hour, month, year, century, am, pm]
-    - [menit, detik, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm]
+    - [menit, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm]
     # [january, february, march, april, may, june, july, august, september, october, november, december, jan, feb, mar, apr, may, jun, jul, aug, sep, sept, oct, nov, dec]
     - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     # [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
