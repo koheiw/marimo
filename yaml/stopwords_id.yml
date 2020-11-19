@@ -40,7 +40,7 @@ adverb:
     # [as, until, once, here, there, all, any, both, each, few, many, more, most]
     - [sebagai, seperti, ajak, sampai, sehingga, hingga, sekali, sini, sana, semua, segenap, segela, sekalian, sesuatu, kedua*, tiap*, masing*, banyak, lebih banyak]
     # [other, some, such, "no", not, only, then, too, very, little, less]
-    - [lain, beberapa, hanya, "tidak", saja, cuma, sedikit, tidak banyak]
+    - [lain, beberapa, hanya, "tidak", saja, cuma, sangat, sedikit, tidak banyak]
 preposition: 
     # [of, at, by, for, with, about, against, between, into, through, during]
     - [di, oleh, dengan, menurut, untuk, bagi, dengan, pada, tentang, terhadap, antara, di antara, ke dalam, melalui, melewat*]
