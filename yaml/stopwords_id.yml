@@ -38,14 +38,14 @@ conjunction:
     - [dan, serta, dengan, tambah, tetapi, melainkan, jika, atau, karena, sebab, begitu, amat, jadi, demikian, sementara, sedangkan, sambil, meski*, walaupun, maupun, namun]
 adverb: 
     # [as, until, once, here, there, all, any, both, each, few, many, more, most]
-    - [sebagai, seperti, ajak, sampai, sehingga, hingga, sekali, sini, sana, semua, segenap, segela, sekalian, sesuatu, kedua*, tiap*, masing*, banyak, lebih banyak]
+    - [sebagai, seperti, ajak, sampai, sehingga, hingga, sekali, sini, sana, semua, segenap, segela, sekalian, sesuatu, kedua*, tiap*, masing*, banyak, lebih, paling]
     # [other, some, such, "no", not, only, then, too, very, little, less]
     - [lain, beberapa, hanya, "tidak", "bukan", saja, cuma, sangat, sedikit, tidak banyak]
 preposition: 
     # [of, at, by, for, with, about, against, between, into, through, during]
     - [di, oleh, dengan, menurut, untuk, bagi, dengan, pada, tentang, terhadap, antara, di antara, ke dalam, melalui, melewat*]
     # [before, after, above, below, to, from, up, down, in, out, "on", "off", over, under, again, further, than]
-    - [sebelum, stelah, atas, bawah, ke, dari, naik, turun, dalam, luar, di atas, di bawah,  lagi, lebih lanjut, daripada]
+    - [sebelum, stelah, atas, bawah, ke, dari, naik, turun, dalam, luar, di atas, di bawah,  lagi, lebih, lanjut, daripada]
 adjectives: 
     # [own, same] 
     - [sendiri, sama] 
