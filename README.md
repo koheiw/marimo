@@ -8,6 +8,7 @@ Language | Authors | Notes
  [German](yaml/stopwords_de.yml) | Oul Han |
  [Arabic](yaml/stopwords_ar.yml) | Dai Yamao |
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
+ [Korean](yaml/stopwords_ko.yml) | Oul Han
  [Japanese](yaml/stopwords_ja.yml) | Kohei Watanabe
  Chinese [Traditional](yaml/stopwords_zh_traditional.yml) / [Simplified](yaml/stopwords_zh_simplified.yml) | Chung-hong Chan, Yuan Zhou
  [Indonasian](yaml/stopwords_id.yml) | Hiroko Kinoshita
