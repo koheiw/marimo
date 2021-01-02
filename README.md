@@ -6,9 +6,10 @@ Language | Authors | Notes
 --- | --- | ---
  [English](yaml/stopwords_en.yml) | Kohei Watanabe | Adopted from Snowball as the master list
  [German](yaml/stopwords_de.yml) | Oul Han |
+ [Russian](yaml/stopwords_ru.yml) | Lana Bilalova |
  [Arabic](yaml/stopwords_ar.yml) | Dai Yamao |
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
- [Russian](yaml/stopwords_ru.yml) | Lana Bilalova |
+ [Korean](yaml/stopwords_ko.yml) | Oul Han
  [Japanese](yaml/stopwords_ja.yml) | Kohei Watanabe
  Chinese [Traditional](yaml/stopwords_zh_traditional.yml) / [Simplified](yaml/stopwords_zh_simplified.yml) | Chung-hong Chan, Yuan Zhou
 
