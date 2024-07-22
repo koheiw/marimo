@@ -6,7 +6,7 @@ Language | Authors | Notes
 --- | --- | ---
  [English](yaml/stopwords_en.yml) | Kohei Watanabe | Adopted from Snowball as the master list
  [German](yaml/stopwords_de.yml) | Oul Han |
- [Russian](yaml/stopwords_ru.yml) | Lana Bilalova |
+ [Russian](yaml/stopwords_ru.yml) | Lanabi La Lova |
  [Arabic](yaml/stopwords_ar.yml) | Dai Yamao |
  [Hebrew](yaml/stopwords_he.yml) | Elad Segev |
  [Korean](yaml/stopwords_ko.yml) | Oul Han
