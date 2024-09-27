@@ -1,0 +1,93 @@
+# Created by Lungta Seki for the marimo stopwords: https://github.com/koheiw/marimo
+
+pronoun: 
+    basic:
+        # [i, me, myself, we, ours, ourselves, you, yours, yourself, yourselves, he, him, himself, she, hers, herself]
+        - [ben, bizi, kendim, biz, bizim, kendimiz, sen, senin, kendin, siz, sizin, kendiniz, o, onun, kendisi, o, onun, kendisi]
+        # [it, itself, they, them, theirs, themselves, this, that, these, those]
+        - [o, kendisi, onlar, onları, onların, kendileri, bu, şu, bunlar, şunlar]
+
+    possessive: 
+        # [my, our, your, his, her, its, their]
+        - [benim, bizim, senin, onun, onların]
+
+    interrogative: 
+        # [what, which, who, whom, whose, when, where, why, how]
+        - [ne, hangi, kim, kime, kimin, ne zaman, nerede, neden, nasıl]
+
+verb: 
+    basic: 
+        # [am, is, are, was, were, be, been, being, have, has, had, having, do, does, did, doing]
+        - [yim, dir, dirler, ydi, idiler, olmak, olmuş, olmakta, var, varlar, vardı, varmış, yapmak, yapar, yaptı, etmek, eder, etti, edilmek]
+
+    modal: 
+        # [would, should, could, ought, will]
+        - [ydi, malı, ebilir, ecek, ecektir, , meli, mış, miş, muş, müş, yebilir, yebilirdi]
+
+    reporting: 
+        # [say, says, said, tell, tells, told, report, reports, reported]
+        - [söylemek, söyler, söyledi, anlatmak, anlatır, anlattı, açıklamak, açıklar, açıkladı, belirtmek, belirtir, belirtti, ifade etmek, ifade eder, ifade etti]
+
+conjunction: 
+    # [and, but, if, or, while, nor]
+    - [ve, ama, eğer, veya, iken, ne, yoksa]
+
+    # [because, so]
+    - [çünkü, bu yüzden, o yüzden, dolayı, nedeniyle, sebebiyle, yani, ki, diye, çünkü]
+
+adverb:
+    # [as, until, once]
+    - [gibi, kadar, bir kez]
+
+    # [here, there]
+    - [burada, orada, şurada, işte, burası, orası, şurası]
+
+    # [all, any, both, each]
+    - [tüm, herhangi, her iki, her biri, hepsi, hiçbiri, herkes, hiç kimse, her şey, hiçbir şey]
+
+    # [few, many, more, most, some]
+    - [birkaç, birçok, daha fazla, çoğu, bazı, daha çok, en çok]
+
+    # [other, such, "no", not, only, then]
+    - [diğer, böyle, değil, sadece, yalnız, o zaman]
+
+    # [too, very]
+    - [çok, çok fazla, pek]
+
+preposition: 
+    # [of, at, in, by, for, with, against]
+    - [nin, de, da, tarafından, için, ile, karşı, karşısında, göre, ait, ilişkin, doğru, yönelik]
+
+    # [about]
+    - [hakkında, üzerine, çevresinde]
+
+    # [between, into, through]
+    - [arasında, içine, boyunca, itibarıyla]
+
+    # [during, before, after, above, below, up, down, in, out, "on", "off", over, under]
+    - [sırasında, önce, sonra, üstünde, altında, yukarı, aşağı, içinde, dışında, üstünde, kapat, açık, üzerinde, altında, karşısında, altına, karşı]
+
+    # [from, to, again, further, than]
+    - [dan, e, tekrar, daha, den, a, tekrar, daha, den, kadar, karşın]
+
+adjective: 
+    # [own, same]
+    - [kendi, aynı]
+
+time: 
+    unit:
+        # [minute, hour, day, month, year, century, am, pm]
+        - [dakika, saat, gün, ay, yıl, yüzyıl, öğleden önce, öğleden sonra]
+
+    month:
+        # [january, february, march, april, may, june, july, august, september, october, november, december]
+        - [ocak, şubat, mart, nisan, mayıs, haziran, temmuz, ağustos, eylül, ekim, kasım, aralık]
+
+    day:
+        # [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
+        - [pazar, pazartesi, salı, çarşamba, perşembe, cuma, cumartesi]
+
+number:
+    cardinal:
+        # [one, two, three, four, five, six, seven, eight, nine, ten]
+        - [bir, iki, üç, dört, beş, altı, yedi, sekiz, dokuz, "on"]
