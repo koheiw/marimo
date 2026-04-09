@@ -1,0 +1,43 @@
+pronoun: 
+    basic: 
+        - [je, me, moi, nous, tu, te, toi, vous, il, elle, ils, elles, lui, le, la, les,  se, soi, ne, pas, rien,  tout, tous, toute, toutes, chacun, chacune, les deux, la plupart, certains, certaines, quelque, quelques, plusieurs, autre, autres, ce, cet, cette, ces, celui, celle, ceux, celles, ceci, cela, ça, un, une, des, aucun, aucune, seul, seule, seuls, seules, unique, eux, on, y]
+        # Funktionwörter #added 
+        - [de, du, des, à, en, dans, pour, avec, sur, et, ou] 
+    possessive: 
+        - [mon, ma, mes, ton, ta, tes, son, sa, ses, notre, nos, votre, vos, leur, leurs]
+        - [sien, sienne, siens, siennes, même, mêmes, soi-même,lui-même, elle-même, eux-mêmes, elles-mêmes,moi-même, toi-même, nous-mêmes, vous-mêmes] ##added, Reflexiv und genitivartige 
+        - [le sien, la sienne, les siens, les siennes, le leur, la leur, les leurs] ##added 
+    interrogative: 
+        - [que, qu’, quoi, quel, quelle, quels, quelles, qui, à qui, de qui, quand, où, pourquoi, comment, avec quoi, pour quoi, de quoi, sur quoi, à quoi]
+verb: 
+    basic: 
+        - [être, suis, es, est, sommes, êtes, sont, étais, était, étaient, été,avoir, ai, as, a, avons, avez, ont, avais, avait, avaient, eu,faire, fais, fait, faisons, faites, font, faisais, faisait, faisaient,aller, vais, vas, va, allons, allez, vont, allait, allaient, alléserai, seras, sera, serons, serez, serontserais, serait, serions, seriez, seraientfus, fut, fûmes, fûtes, furentsois, soit, soyons, soyez, soientfusse, fusses, fût, fussions, fussiez, fussent,aurai, auras, aura, aurons, aurez, aurontaurais, aurait, aurions, auriez, auraienteut, eûmes, eûtes, eurentaie, aies, ait, ayons, ayez, aienteusse, eusses, eût, eussions, eussiez, eussent] ##added Verbformen von entre und avoir 
+    modal: 
+        - [devoir, dois, doit, devons, devez, doivent, devais, devait, devaient,pouvoir, peux, peut, pouvons, pouvez, peuvent, pouvais, pouvait, pouvaient,vouloir, veux, veut, voulons, voulez, veulent, voulais, voulait, voulaient]
+        - [dire, dis, dit, disent, disait,voir, vois, voit, voient, voyait,prendre, prend, prennent,mettre, met, mettent,donner, donne, donnent] ##added, weitere sehr häufige Funktionsverben 
+    contraction: ##added Präposition + Artikel, Diese entsprechen am ehesten Formen wie vom, zum, zur, beim ##added Präposition mit Apostroph 
+        - [au, aux, du, des,l’, d’, c’, j’, n’, m’, t’, s’, qu’,à l’, de l’] 
+    reporting: 
+        - [dire, dis, dit, disent, disait, rapporter, rapporte, rapporté, signaler, signale, signalé, raconter, raconte, raconté, affirmer, affirme, affirmé,prétendre, prétend, prétendu, annoncer, annonce, annoncé,expliquer, explique, expliqué]
+article: 
+    - [le, la, les, l’,un, une, des,du, de la, de l’]
+conjunction: 
+    - [et, mais, ou, donc, car, alors,si, lorsque, au cas où, parce que, puisque, comme, ainsi, par conséquent,cependant, pourtant, néanmoins, toutefois, tandis que, alors quependant que, dès que, aussitôt que, tant que,de plus, en outre, également, aussi,pour, afin de, afin que,à, de, dans, sur, sous, chez, avec, sans, par,entre, parmi, contre, vers, selon,malgré, pendant, durant,en raison de, à cause de, grâce à,au lieu de, à l’aide de,au sujet de, concernant, à propos de, vis-à-vis de, ni, maintenant, alors, sinon, ensuite, encore, certes, à cela, à l’occasion de, faute de, depuis, afin de, comme suit, exclusivement, selon, sans, concernant, moins, par, au nome de, plus, en considération de, malgré, au moyen de, sous réserve de, en faveur de, face à, concernant, vers, sauf, excepté, chacun] 
+adverb: 
+    - [seulement, également, alors, puis, aussi, assez, un peu, peu, beaucoup, plusieurs, la plupart du temps, tout, bientôt, déjà, jusqu’ici, après, avant, autrefois, enfin, hier, toujours, entre-temps, récemment, jamais, souvent, régulièrement, immédiatement, toujours, quotidiennement, tout à l’heure, actuellement, donc, ainsi, par cela, c’est pourquoi, par conséquent, par conséquent, par politesse, par précaution, ainsi, pourtant, autrement, extrêmement, presque, comme on le sait, presque, entièrement, tout à fait, exactement, de la même manière, assez, volontiers, espérons, espérons que, à peine, malheureusement, possiblement, éventuellement, très, ainsi, si, peut-être, vraiment] 
+preposition: 
+    - [à, par, pour, sur, entre, via, sous, dès, en haut, en bas, de, vers le bas, au, à, derrière, dans, encore, comme, du, à, sur, à côté de, devant, jusqu’à, dans, après, autour de, de, contre, des deux côtés de, de ce côté-ci de, au-delà de, à l’écart de, le long de, au-dessus de, au-dessous de, en dehors de, à l’intérieur de, le long de, latéralement à, sauf, chez, conformément à, en face de, près de, vers le haut, dehors, là, là-bas, dedans, loin, ici, par ici, dedans, derrière, quelque part, à gauche, à côté, partout, en bas, devant, au début de, à l’entrée de, loin de, très loin de, au milieu de, le long de, au nord de, au nord-est de, au nord-ouest de, à l’est de, à droite, de côté, au sud de, au sud-est de, au sud-ouest de, non loin de, non loin de, vis-à-vis de, à l’ouest de, loin de, d’abord, sur le côté, au début, en dehors de, dans un délai de, à l’intérieur de]
+adjective: 
+    - [même, mêmes, pareil, pareille, pareils, pareilles]
+time: 
+    unit:
+        - [minute, heure, mois, an, année, années, siècle, siècles, matin, après-midi]
+    month:
+        - [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+    day:        
+        - [dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi]
+number:
+    cardinal:
+        - [un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix]
+        #- [onze, douze, treize, quatorze, quinze, seize, vingt, trente, quarante, cinquante, soixante] ##added 
+
