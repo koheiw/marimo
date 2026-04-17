@@ -1,11 +1,14 @@
-require(testthat)
+library(testthat)
+library(stringi)
 
 for (f in list.files("yaml", full.names = TRUE)) {
     cat("Read ", f, "\n")
     expect_silent({ 
         lis <- yaml::read_yaml(f)
     })
-    cat(sum(stringi::stri_count_regex(unlist(lis), " ")), "n-grams, ")
-    cat(sum(stringi::stri_count_regex(unlist(lis), "\\p{Z}")), "non-word, ")
-    cat(sum(duplicated(unlist(lis))), "duplicates\n")
+    v <- unlist(lis)
+    cat(sum(stri_trans_tolower(v) != v), "upper-case, ")
+    cat(sum(stri_count_regex(v, " ")), "n-grams, ")
+    cat(sum(stri_count_regex(v, "\\p{Z}")), "non-word, ")
+    cat(sum(duplicated(v)), "duplicates\n")
 }

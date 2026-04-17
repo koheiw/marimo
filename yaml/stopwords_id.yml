@@ -55,7 +55,7 @@ time:
     # [january, february, march, april, may, june, july, august, september, october, november, december, jan, feb, mar, apr, may, jun, jul, aug, sep, sept, oct, nov, dec]
     - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     # [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
-    - [Minggu, Senin, Selasa, Rabu, Kamis, Jumat, Sabtu]
+    - [minggu, senin, selasa, rabu, kamis, jumat, sabtu]
 number:
     cardinal:
         # [one, two, three, four, five, six, seven, eight, nine, ten]
