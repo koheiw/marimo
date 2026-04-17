@@ -8,7 +8,7 @@ pronoun:
         - [itu, ini, mereka, bahwa*, yang]
     possesive: 
         # [my, our, your, his, her, its, their][my, our, your, his, her, its, their]
-        - [milikku, milik saya, milik*]
+        - [milik*]
     interogative: 
         # [what, which, who, whom, whose, when, where, why, how]
         - [apa, mana, siapa*, kapan, ketika, mengapa, kenapa, bagaimana]
@@ -43,9 +43,9 @@ adverb:
     - [lain, beberapa, hanya, "tidak", "bukan", saja, cuma, sangat, sedikit, banyak]
 preposition: 
     # [of, at, by, for, with, about, against, between, into, through, during]
-    - [di, oleh, dengan, menurut, untuk, bagi, dengan, pada, tentang, terhadap, antara, di antara, ke dalam, melalui, melewat*]
+    - [di, oleh, dengan, menurut, untuk, bagi, dengan, pada, tentang, terhadap, antara, melalui, melewat*]
     # [before, after, above, below, to, from, up, down, in, out, "on", "off", over, under, again, further, than]
-    - [sebelum, stelah, atas, bawah, ke, dari, naik, turun, dalam, luar, di atas, di bawah,  lagi, lebih, lanjut, daripada]
+    - [sebelum, stelah, atas, bawah, ke, dari, naik, turun, dalam, luar, lagi, lebih, lanjut, daripada]
 adjectives: 
     # [own, same] 
     - [sendiri, sama] 
