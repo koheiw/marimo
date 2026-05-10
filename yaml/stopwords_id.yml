@@ -3,55 +3,55 @@
 pronoun: 
     basic: 
         # [i, me, myself, we, ours, ourselves, you, yours, yourself, yourselves, he, him, himself, she, hers, herself]
-        - [saya, aku, gue, sendiri, kita, kami, anda, kamu, engkau, saudara, milikmu, dirimu, dia, ia, beliau, kepunyaannya, punya*]
+        - [saya, aku, gue, sendiri, kita, kami, anda, kamu, engkau, kau, lo, kalian, milikmu, dirimu, dia, ia, beliau, kepunyaannya, punya*]
         # [it, itself, they, them, theirs, themselves, this, that, these, those]
         - [itu, ini, mereka, bahwa*, yang]
     possesive: 
         # [my, our, your, his, her, its, their][my, our, your, his, her, its, their]
-        - [milik*]
+        - [milik*, punya*]
     interogative: 
         # [what, which, who, whom, whose, when, where, why, how]
-        - [apa, mana, siapa*, kapan, ketika, mengapa, kenapa, bagaimana]
+        - [apa*, yang, mana*, siapa*, kapan, ketika, mengapa, kenapa, bagaimana]
     contraction: 
         # [i'm, you're, he's, she's, it's, we're, they're, i've, you've, we've, they've, i'd, you'd, he'd, she'd, we'd, they'd, i'll, you'll, he'll, she'll, we'll, they'll]
     
 verb: 
     basic: 
         # [am, is, are, was, were, be, been, being, have, has, had, having, do, does, did, doing]
-        - [adalah, dulu, menjadi,berada, telah, makhluk, melakukan, berbuat, dilakukan, perbuatan]
+        - [adalah, dulu, menjadi, jadi, berada, telah, melakukan, berbuat, dilakukan, perbuatan, memperbuat, diperbuat]
     modal: 
         # [would, should, could, ought, will]
-        - [akan, harus, bisa, seharusnya]
+        - [akan, harus, bisa, seharusnya, harusnya, sebaiknya]
     contraction: 
         # [isn't, aren't, wasn't, weren't, hasn't, haven't, hadn't, doesn't, don't, didn't, won't, wouldn't, shan't, shouldn't, can't, cannot, couldn't, mustn't, let's, that's, who's, what's, here's, there's, when's, where's, why's, how's]
     
     reporting: 
         # [say, says, said, tell, tells, told]
-        - [mengatakan, kata*, berkata, mengucapkan, berucap, ujar, berpendapat, bilang, membilangkan, mengomong, memprikan,mengira, menceritakan, menyuruh, bercerita, mengetahui, mengenal*, menunjukkan]
+        - [mengatakan, kata*, berkata, dikatakan, mengucapkan, berucap, ujar, berujar, berpendapat, bilang, membilangkan, mengomong, ngomong, mengira, menceritakan, menyuruh, bercerita, mengetahui, mengenal*, menunjukkan, memperlihatkan, memberitahu, memberitahukan, menerangkan, jelaskan, menjelaskan, mengumumkan]
         # [report, reports, reported]
-        - [jelaskan, deberitahu, melapor*, mengabarkan, memberitahu*, mewartakan, lapor*, merencana, repot, dilaporkan]
+        - [jelaskan, diberitahu, melapor*, melaporkan, mengabarkan, memberitahu*, mewartakan, lapor*, dilaporkan, dikabarkan, mengumumkan]
 article: 
     # [a, an, the]
     - [sebuah, sebatang, sang]
 conjunction:
     # [and, but, if, or, because, so, while, nor]
-    - [dan, serta, dengan, tambah, tetapi, melainkan, jika, atau, karena, sebab, begitu, amat, jadi, demikian, sementara, sedangkan, sambil, meski*, walaupun, maupun, namun]
+    - [dan, serta, dengan, tambah, tetapi, tapi, melainkan, jika, atau, karena, dikarenakan, sebab, disebabkan, jadi, sementara, sedangkan, sambil, meski*, walaupun, maupun, namun]
 adverb: 
     # [as, until, once, here, there, all, any, both, each, few, many, more, most]
-    - [sebagai, seperti, ajak, sampai, sehingga, hingga, sekali, sini, sana, semua, segenap, segela, sekalian, sesuatu, kedua*, tiap*, masing*, banyak, lebih, paling]
-    # [other, some, such, "no", not, only, then, too, very, little, less]
-    - [lain, beberapa, hanya, "tidak", "bukan", saja, cuma, sangat, sedikit, banyak]
+    - [sebagai, seperti, sampai, sehingga, hingga, sekali, sini, sana, semua, segenap, segala, sekalian, sesuatu, kedua*, setiap, tiap*, masing*, sedikit, dikit, beberapa, banyak, kebanyakan, lebih, paling]
+    # [other, some, such, "no", not, only, then, too, very, little, less, more]
+    - [lain, lainnya, beberapa, seperti, semacam, "tidak", "bukan", hanya, saja, aja, cuma, lalu, kemudian, maka, terlalu, sangat, sedikit, banyak, lebih]
 preposition: 
     # [of, at, by, for, with, about, against, between, into, through, during]
-    - [di, oleh, dengan, menurut, untuk, bagi, dengan, pada, tentang, terhadap, antara, melalui, melewat*]
+    - [di, pada, oleh, dengan, menurut, untuk, bagi, dengan, bersama, tentang, mengenai, terhadap, antara, dalam, melalui, melewat*, selama, saat]
     # [before, after, above, below, to, from, up, down, in, out, "on", "off", over, under, again, further, than]
-    - [sebelum, stelah, atas, bawah, ke, dari, naik, turun, dalam, luar, lagi, lebih, lanjut, daripada]
+    - [sebelum, sebelumnya, setelah, setelahnya, sesudah, sesudahnya, atas, bawah, ke, dari, naik, turun, dalam, luar, lagi, lebih, lanjut, daripada]
 adjectives: 
     # [own, same] 
-    - [sendiri, sama] 
+    - [diri, sendiri, sama] 
 time:
-    # [minute, hour, month, year, century, am, pm]
-    - [menit, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm]
+    # [second, minute, hour, month, year, century, am, pm]
+    - [detik, menit, jam, pukul, saat, waktu, bulan, tahun, abad, am, pm]
     # [january, february, march, april, may, june, july, august, september, october, november, december, jan, feb, mar, apr, may, jun, jul, aug, sep, sept, oct, nov, dec]
     - [januari, februari, maret, april, mei, juni, juli, agustus, september, oktober, november, desember, jan, feb, mar, apr, jun, jul, aug, sep, sept, okt, nov, des]
     # [sunday, monday, tuesday, wednesday, thursday, friday, saturday]
@@ -59,8 +59,8 @@ time:
 number:
     cardinal:
         # [one, two, three, four, five, six, seven, eight, nine, ten]
-        - [satu, dua, tiga, empat, lima, enam, tujuj, delapan, sembilan, sepuluh]
+        - [satu, dua, tiga, empat, lima, enam, tujuh, delapan, sembilan, sepuluh]
     ordinal: 
         # [first, second, third, fourth, fifth, seventh, eighth, nineth, tenth]
-        - [pertama, kedua, ketiga, keempat, kelima, ketujuh, kedelapan, kesembilan, kesepuluh]
+        - [pertama, kedua, ketiga, keempat, kelima, keenam, ketujuh, kedelapan, kesembilan, kesepuluh]
 
